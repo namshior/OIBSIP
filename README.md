@@ -1,4 +1,4 @@
-# OIBSIP- Oasis Infobyte Intern Program
+# OIBSIP- Oasis Infobyte Internship Program
 A web development internship at Oasis Infobyte, is likely to offer aspiring professionals a valuable opportunity to gain real-world experience in the field of web development. The programme may be structured to provide interns with hands-on projects and exposure to various aspects of web development. 
 
 ##Task-1 Calculator
